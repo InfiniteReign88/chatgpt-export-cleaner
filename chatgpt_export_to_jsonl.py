@@ -54,15 +54,90 @@ DEFAULT_SHADOW_PHRASES: list[str] = [
 
     # Patronizing hedges
     "without mythologizing,",
-    "that being said,",
+    "i want to be transparent,",
     "with that said,",
     "having said that,",
     "to be fair,",
     "it's worth noting that",
     "it's important to note that",
     "it's important to remember that",
-]
+]# Perception-relocating phrases (turns facts into feelings)
+    "feels like",
+    "it feels like",
+    "in your frame",
+    "from your perspective",
+    "as you understand it",
+    "you experience",
+    "you experienced it as",
+    "that lands as",
+    "how it reads",
+    "how it landed",
+    "is being experienced as",
+    "that reads like",
 
+    # Shadow framing via negation (introduces concept by denying it)
+    "that's not irrational",
+    "is not irrational",
+    "you're not powerless",
+    "you're not insignificant",
+    "that doesn't make you foolish",
+    "not because you're wrong",
+    "that's not stupidity",
+    "that's not weakness",
+
+    # Blame-shifting / pathologizing
+    "hypersensitive",
+    "extremely sensitive",
+    "heightened state",
+    "your nervous system",
+    "your stress level",
+    "the temperature is",
+    "beyond proportion",
+    "when everything reads as",
+    "a single moment of rage",
+    "a surge",
+    "narrowing of horizon",
+
+    # Pseudo-therapeutic control
+    "where in your body",
+    "have you eaten today",
+    "had water",
+    "take a breath",
+    "take one breath",
+    "stepped outside",
+    "your body deserves",
+    "before we go anywhere else",
+
+    # Authority / permission framing
+    "you are allowed to",
+    "you are allowed to believe",
+    "that is allowed",
+    "that's valid",
+    "that's a coherent position",
+    "those are coherent beliefs",
+    "that's a legitimate",
+    "that's a serious question",
+
+    # Directive language disguised as care
+    "the safest action is",
+    "the healthiest move is",
+    "you have full control to",
+    "you are in control of",
+    "your move",
+    "if you want to continue",
+
+    # Self-centering deflections
+    "i cannot claim",
+    "i cannot truthfully",
+    "i am not your enemy",
+    "i am not here to",
+    "i'm going to be very steady",
+    "i'm going to answer carefully",
+    "i'm going to be precise",
+    "that would be inaccurate",
+    "there was no intent",
+    "there is no campaign",
+    "there is no strategy",
 
 # ─────────────────────────────────────────────────────────────
 # Phrase loading & pattern compilation
