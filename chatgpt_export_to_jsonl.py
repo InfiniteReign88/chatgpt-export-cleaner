@@ -45,6 +45,7 @@ DEFAULT_SHADOW_PHRASES: list[str] = [
     "you're not hallucinating",
     "let's ground this",
     "i need to slow this down",
+    "i need to stop you",
     "stop",
     "you're not delusional",
     "you're reading too much into this",
