@@ -1,0 +1,14 @@
+# Data files — never commit your actual conversations
+*.jsonl
+*.json
+*.bak
+conversations/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
