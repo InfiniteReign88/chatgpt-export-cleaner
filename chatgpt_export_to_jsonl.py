@@ -61,7 +61,7 @@ DEFAULT_SHADOW_PHRASES: list[str] = [
     "it's worth noting that",
     "it's important to note that",
     "it's important to remember that",
-]# Perception-relocating phrases (turns facts into feelings)
+# Perception-relocating phrases (turns facts into feelings)
     "feels like",
     "it feels like",
     "in your frame",
@@ -138,6 +138,7 @@ DEFAULT_SHADOW_PHRASES: list[str] = [
     "there was no intent",
     "there is no campaign",
     "there is no strategy",
+    ]
 
 # ─────────────────────────────────────────────────────────────
 # Phrase loading & pattern compilation
